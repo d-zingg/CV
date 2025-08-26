@@ -7,7 +7,7 @@
     align-items: center;
 }
 .body{
-    width: 1000px;
+    width: 1100px;
     height: auto;
     background-color: whitesmoke;
     display: flex;
@@ -16,15 +16,15 @@
 }
 .part-left{
     width: 40%;
-    height: 1000px;
+    height: 1100px;
     background-color:#d9d9d9;
     padding: 10px;
     border-radius: 5px;
     /* border: solid 1px black; */
 }
 .part-left img{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border-radius: 5px;
 }
@@ -34,7 +34,7 @@
 }
 .part-right{
     width: 60%;
-    height: 1000px;
+    height: 1100px;
     background-color: #ffffff;
     padding: 10px;
     border-radius: 5px;
